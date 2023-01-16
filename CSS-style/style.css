@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(112, 241, 142);
+    style="font-family: verdana;
+}
+   
+
+<style>
+h1 {text-align: center;}
+h2 {text-align: justify;}
+p {text-align: justify;}
+div {text-align: center;}
+</style>
+
+
+
+hr {
+
+    width: 8%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgba(36, 60, 83, 0.103);          
+    border-width: 8px;
+}      
+
+
+.border {
+    border-radius: 50%;
+}
